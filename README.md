@@ -7,6 +7,7 @@ This tool has a capability to analyze data leakage points. It has around 10+ con
 
 <li> File Transfer Over Web</li> 
 <li> Use of Removeable Media</li>
+<li> Try to Bypass UAC and perform installation</li> 
 <li> Sending File Over Local File Server</li>
 <li> Locate Stored passwords for Data Breach</li>
 <li> Searching for Internet Connectivity to setup a cloud connection</li>
